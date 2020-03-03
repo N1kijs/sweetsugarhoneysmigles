@@ -16,5 +16,5 @@ Automātisks - Šajā režīmā servo darbosies uz kustības sensoru un automati
 
 - [ ] - Izveidot aplikāciju (optional)
 
-#### Licence
+### Licence
 Licenzēts zem GNU General Public License v3.0
