@@ -8,3 +8,10 @@ Kontroliera režimi ir:
 Manuāls - Šajā režimā nospiežot pogu (aplikācijā/node-redā) ar servo palīdzību ieslēgs vai izslēgs slēdzi.
 
 Automātisks - Šajā režīmā servo darbosies uz kustības sensoru un automatiski ieslēgs vai izslēgs slēdzi.
+
+### ToDoList
+- [ ] - Izveidot prototipu ar pogu uz breadboarda
+
+- [ ] - Izveidot node-red funkcionalitāti
+
+- [ ] - Izveidot aplikāciju (optional)
