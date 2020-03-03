@@ -15,3 +15,5 @@ Automātisks - Šajā režīmā servo darbosies uz kustības sensoru un automati
 - [ ] - Izveidot node-red funkcionalitāti
 
 - [ ] - Izveidot aplikāciju (optional)
+
+#### Licence
