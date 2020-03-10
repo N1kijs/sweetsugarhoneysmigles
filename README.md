@@ -18,7 +18,7 @@ Automātiskais - Servo darbosies uz kustības sensoru un automatiski ieslēgs va
 
 ### Eagle shēma
 
-
+![](https://github.com/N1kijs/sweetsugarhoneysmigles/blob/master/mantas/imidzh.PNG)
 
 ### Licence
 Licenzēts zem GNU General Public License v3.0
