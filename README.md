@@ -1,13 +1,13 @@
 # Slēdžu Kontrolieris
 ## Vīzija
 
-Projekta 'vīzija' ir izveidot vai nu node-redu vai aplikāciju kurā ir divas pogas. Vienu nospiežot maina kontroliera režīmu, otra vai nu izslēgs/ieslēgs slēdzi vai nedarīs neko bastoties uz režima.
+Projekta mērķis ir izveidot node-redā (iespējams aplikācijā) fukciju kurā ir divas pogas. Vienu nospiežot maina kontroliera režīmu, otra izslēgs/ieslēgs slēdzi vai nedarīs neko bastoties uz režima.
 
-Kontroliera režimi ir:
+Režīmi:
 
-Manuāls - Šajā režimā nospiežot pogu (aplikācijā/node-redā) ar servo palīdzību ieslēgs vai izslēgs slēdzi.
+Manuālais - Nospiežot pogu servo ieslēgs vai izslēgs slēdzi.
 
-Automātisks - Šajā režīmā servo darbosies uz kustības sensoru un automatiski ieslēgs vai izslēgs slēdzi.
+Automātiskais - Servo darbosies uz kustības sensoru un automatiski ieslēgs vai izslēgs slēdzi.
 
 ### ToDoList
 - [ ] - Izveidot prototipu ar pogu uz breadboarda
