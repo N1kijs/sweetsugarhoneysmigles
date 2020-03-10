@@ -16,5 +16,9 @@ Automātiskais - Servo darbosies uz kustības sensoru un automatiski ieslēgs va
 
 - [ ] - Izveidot aplikāciju (optional)
 
+### Eagle shēma
+
+
+
 ### Licence
 Licenzēts zem GNU General Public License v3.0
